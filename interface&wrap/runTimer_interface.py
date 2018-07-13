@@ -37,7 +37,7 @@ elif 'Linux' in platform.platform():
     DELIMETER = '/'
     SYSTEM_MAX_WIDHT = 700
     SYSTEM_MAX_HEIGHT = 720
-    LEN_FORM_DIR = 300
+    LEN_FORM_DIR = 301
 
 
 
